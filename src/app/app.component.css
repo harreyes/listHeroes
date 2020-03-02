@@ -1,0 +1,27 @@
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url('http://icon-library.com/images/superhero-icon-png/superhero-icon-png-24.jpg');
+  background-size: cover;
+}
+
+.minh-100 {
+  height: 100vh;
+}
+
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 10vh;
+}
+
+.colorUp {
+  color: blue;
+}
+
+.colorDown {
+  color: red;
+}
